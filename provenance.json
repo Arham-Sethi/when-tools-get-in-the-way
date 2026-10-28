@@ -1,0 +1,95 @@
+{
+  "schema_version": 1,
+  "files": [
+    {
+      "path": "notebooks/Copy_of_workflowreadonly (1).ipynb",
+      "original_filename": "Copy_of_workflowreadonly (1).ipynb",
+      "original_sha256": "6987f732ca376c4cef72f803f5cf4b019326e97e8a3ec800cd45c3390aa13db3",
+      "sanitized_sha256": "26994f55ea9f3cd29557e8b4cdb6eeb5f6fec31944ee93d5eee4fd3522911048",
+      "cells": 21,
+      "outputs_removed": true
+    },
+    {
+      "path": "notebooks/paper2_geography_FULL_(2).ipynb",
+      "original_filename": "paper2_geography_FULL_(2).ipynb",
+      "original_sha256": "271cb4ec2c60c7ebfb8263f4ce6b49d8c1168182d72d8b7cca250d47ef18ec05",
+      "sanitized_sha256": "89cbc4d7b12cd948e3d8a502d7112d9c803a0570ac273f2e5f906fe264c06f61",
+      "cells": 36,
+      "outputs_removed": true
+    },
+    {
+      "path": "notebooks/paper2_biology_FULL_(2).ipynb",
+      "original_filename": "paper2_biology_FULL_(2).ipynb",
+      "original_sha256": "a107176c55f61c36844c4a30631b789d1b577e433ad6d6f9ccfdae76c9ad1197",
+      "sanitized_sha256": "1691a980c9e757a9d8e6a6ce0999289680976d3c30fe5b5229549857f060146d",
+      "cells": 42,
+      "outputs_removed": true
+    },
+    {
+      "path": "notebooks/paper2_astronomy_FULL_(3).ipynb",
+      "original_filename": "paper2_astronomy_FULL_(3).ipynb",
+      "original_sha256": "38eae9c46d57ad86e0f3adb10c5519846aeee75a732125005b55aba53b88039b",
+      "sanitized_sha256": "fc58e8ce8c5bea904e8ea23e31b0762be1a442eb903966a4bdac298ce9ab89d8",
+      "cells": 36,
+      "outputs_removed": true
+    }
+  ],
+  "sanitization": [
+    {
+      "notebook": "Copy_of_workflowreadonly (1).ipynb",
+      "cell": 2,
+      "change": "Replaced embedded service-account dictionary with environment JSON."
+    },
+    {
+      "notebook": "Copy_of_workflowreadonly (1).ipynb",
+      "cell": 2,
+      "change": "Externalized credential/project/sheet settings where present; disabled sheet publishing; removed credential-identity diagnostics."
+    },
+    {
+      "notebook": "paper2_geography_FULL_(2).ipynb",
+      "cell": 3,
+      "change": "Externalized credential/project/sheet settings where present; disabled sheet publishing; removed credential-identity diagnostics."
+    },
+    {
+      "notebook": "paper2_geography_FULL_(2).ipynb",
+      "cell": 5,
+      "change": "Replaced embedded service-account dictionary with environment JSON."
+    },
+    {
+      "notebook": "paper2_geography_FULL_(2).ipynb",
+      "cell": 33,
+      "change": "Externalized credential/project/sheet settings where present; disabled sheet publishing; removed credential-identity diagnostics."
+    },
+    {
+      "notebook": "paper2_biology_FULL_(2).ipynb",
+      "cell": 3,
+      "change": "Externalized credential/project/sheet settings where present; disabled sheet publishing; removed credential-identity diagnostics."
+    },
+    {
+      "notebook": "paper2_biology_FULL_(2).ipynb",
+      "cell": 5,
+      "change": "Replaced embedded service-account dictionary with environment JSON."
+    },
+    {
+      "notebook": "paper2_biology_FULL_(2).ipynb",
+      "cell": 38,
+      "change": "Externalized credential/project/sheet settings where present; disabled sheet publishing; removed credential-identity diagnostics."
+    },
+    {
+      "notebook": "paper2_astronomy_FULL_(3).ipynb",
+      "cell": 3,
+      "change": "Externalized credential/project/sheet settings where present; disabled sheet publishing; removed credential-identity diagnostics."
+    },
+    {
+      "notebook": "paper2_astronomy_FULL_(3).ipynb",
+      "cell": 5,
+      "change": "Replaced embedded service-account dictionary with environment JSON."
+    },
+    {
+      "notebook": "paper2_astronomy_FULL_(3).ipynb",
+      "cell": 33,
+      "change": "Externalized credential/project/sheet settings where present; disabled sheet publishing; removed credential-identity diagnostics."
+    }
+  ],
+  "execution": "No notebook or research code executed during preparation."
+}

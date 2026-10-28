@@ -1,0 +1,62 @@
+[
+  {
+    "path": ".gitattributes",
+    "sha256": "8b9c3028d6467ff3be7c793141927841d70f47f52d0590677438f488ca154992",
+    "bytes": 9
+  },
+  {
+    "path": ".gitignore",
+    "sha256": "9946fdfbb25aca4ab101f9644551e6a582f65ffd0ff76b34ad2cc6a250634cf0",
+    "bytes": 137
+  },
+  {
+    "path": "manuscript.pdf",
+    "sha256": "033d4e217d1e006687d3149f802a2ff0b875bf6c6d92c6c79152f9d4a601dbb8",
+    "bytes": 1641702
+  },
+  {
+    "path": "provenance.json",
+    "sha256": "dfc961626b483832105a0de259f098c2c6ce057cedcb033e74388bb136da5a30",
+    "bytes": 4014
+  },
+  {
+    "path": "README.md",
+    "sha256": "12e19b104e34786c514eae7ff23d1ded0161c29128805f6a928f67d56b9e94e7",
+    "bytes": 5499
+  },
+  {
+    "path": "requirements.txt",
+    "sha256": "ed738ab7d2a06470fb6e69cf8038cae36778cc84f6a1cde7cb360ace85c4757d",
+    "bytes": 164
+  },
+  {
+    "path": "SANITIZATION.md",
+    "sha256": "093b30239650a61bc20ea77b63efcaa75d271db9270690c0151c7e135588bce9",
+    "bytes": 595
+  },
+  {
+    "path": "security-scan.json",
+    "sha256": "f9e82ce34113980fbe50c4ca4d9b9209c5133ffd92df1cafd6ee22f92814b402",
+    "bytes": 276
+  },
+  {
+    "path": "notebooks/Copy_of_workflowreadonly (1).ipynb",
+    "sha256": "26994f55ea9f3cd29557e8b4cdb6eeb5f6fec31944ee93d5eee4fd3522911048",
+    "bytes": 14073
+  },
+  {
+    "path": "notebooks/paper2_astronomy_FULL_(3).ipynb",
+    "sha256": "fc58e8ce8c5bea904e8ea23e31b0762be1a442eb903966a4bdac298ce9ab89d8",
+    "bytes": 40833
+  },
+  {
+    "path": "notebooks/paper2_biology_FULL_(2).ipynb",
+    "sha256": "1691a980c9e757a9d8e6a6ce0999289680976d3c30fe5b5229549857f060146d",
+    "bytes": 44679
+  },
+  {
+    "path": "notebooks/paper2_geography_FULL_(2).ipynb",
+    "sha256": "89cbc4d7b12cd948e3d8a502d7112d9c803a0570ac273f2e5f906fe264c06f61",
+    "bytes": 38678
+  }
+]
